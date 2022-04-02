@@ -4,8 +4,8 @@ Trying to solve projecteuler.net problems!
 
 ### currently working on:
 
-multiples of 3 and 5 (1/x)
+even fibonacci numbers (2/100)
 
 ### next up:
 
-even fibonacci numbers (2/x)
+largest prime factor (3/100)
